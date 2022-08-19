@@ -15,7 +15,5 @@ int main(int argc, char const *argv[])
     }
     printf("\n %d^%d=%d",base,exp,result);
     
-
-    
     return 0;
 }
