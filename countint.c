@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
 
         
     }
-    printf("Count number of digits=%d",count);
+    printf("Count number of digits=%d",count); 
     
 
     return 0;
