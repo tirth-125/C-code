@@ -20,10 +20,6 @@ int main(int argc, char const *argv[])
     b=c;
     
 
-    }
-    
-
-    
-    
+    } 
     return 0;
 }
