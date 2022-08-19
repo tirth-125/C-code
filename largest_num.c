@@ -20,7 +20,7 @@ int main() {
     {
         printf("%d is largest",num2);
     }
-    else if (num1==num2==num3)
+    else if (num1==num2==num3) 
     {
         printf("All num are same");
     }
