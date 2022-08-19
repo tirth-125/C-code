@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
         if (key==a[i])
         {
           flag=1;
-          break;//(space complextivity)
+          break;//(space complextivity) 
         }
         
     }
