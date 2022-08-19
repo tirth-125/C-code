@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
-    int a,b,Product=1;
+    int a,Product=1;
 
     printf("Enter the num a=");
     scanf("%d",&a);
