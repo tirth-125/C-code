@@ -15,7 +15,7 @@ int main(int argc, char const *argv[])
 
     for (int i = 0; i < size; i++)
     {
-        printf("The Element %d is %d\n ",i,a[i]);
+        printf("The Element %d is %d\n ",i,a[i]); 
     }
     
 
