@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
     for (int j = min; j <= max; j++)
     {
         product=1; //(doubted)
-        for (int i = 1; i <=j; i++)
+        for (int i = 1; i <=j; i++) 
         
             product=product*i;
             printf("%d\n",product);
